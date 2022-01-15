@@ -1,19 +1,26 @@
 # k8s  
-  
+
 Namespace - ns  
 Pod - po  
 ReplicaSet- rs  
--  
--  
--  
--  
--  
--  
--  
--  
--  
--  
--  
+ReplicationController  
+Job 
+CronJob   
+DaemonSet - ds  
+StatefulSet - sts  
+Deployment - deploy  
+Service - svc  
+Endpoint - ep  
+Ingress - ing  
+ConfigMap - cm  
+Secret  
+  
+   
+  
+  
+  
+  
+  
   
 __kubectl__ different version:  
 https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html  
