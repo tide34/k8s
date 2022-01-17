@@ -35,6 +35,8 @@ NetworkPolicy -netpol
 CertificateSigningRequest - csr  
 CustomResourceDefinition - crd  
   
+ReplicationController (old) -> ReplicaSet (new)  
+  
 __kubectl__ different version:  
 https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html  
   
